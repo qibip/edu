@@ -71,3 +71,5 @@ const arr = [34, 'Peter', 76, 'Jobs'];
 
 // // Используя Object.entries(), выведи массив пар [ключ, значение] для объекта member.
 // console.log(Object.entries(member));
+
+// test
