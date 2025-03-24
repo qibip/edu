@@ -57,11 +57,10 @@ const arr = [34, 'Peter', 76, 'Jobs'];
 // ЗАДАЧИ
 
 // Используя for...in, перебери и выведи все ключи и значения объекта:
-// const car = { brand: "Tesla", model: "Model S", year: 2022 };
-// const car = { brand: 'Tesla', model: 'Model S', year: 2022 };
-// for (let e in car) {
-//   console.log(e, car[e]);
-// }
+const car = { brand: 'Tesla', model: 'Model S', year: 2022 };
+for (let e in car) {
+  console.log(e, car[e]);
+}
 
 // // Используя Object.keys(), получи массив всех ключей объекта member.
 // console.log(Object.keys(member));
